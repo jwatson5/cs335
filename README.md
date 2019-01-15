@@ -1,1 +1,1 @@
-# cs335
+# CS335 Class Files
